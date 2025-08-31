@@ -1,0 +1,13 @@
+# Python dependencies for PDF-to-Audiobook project
+
+# PDF processing
+PyPDF2
+
+# Environment variable management
+python-dotenv
+
+# HTTP requests
+requests
+
+# Async.ai, Camb.ai, Deepgram APIs
+deepgram-sdk
